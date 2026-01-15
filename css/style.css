@@ -61,6 +61,7 @@ body {
 
 .hero {
   padding: 3rem 0rem;
+  border-bottom: 1px solid var(--border);
 }
 
 .hero h2 {
